@@ -1,0 +1,2638 @@
+[
+  {
+    "id": 0,
+    "name": "Arroz Caldo",
+    "meal": "breakfast",
+    "protein": "chicken",
+    "minutes": 45,
+    "image": 9,
+    "tags": [
+      "classic",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.4 kg chicken",
+      "0.3 kg rice",
+      "1 pc onion",
+      "5 cloves garlic",
+      "30 g ginger",
+      "4 pcs eggs",
+      "1 tbsp fish sauce"
+    ],
+    "steps": [
+      "Sauté garlic, onion and ginger until aromatic.",
+      "Add chicken and cook until the outside turns opaque.",
+      "Stir in washed rice and 1.5 liters water, then simmer until creamy and chicken is cooked.",
+      "Season with fish sauce and serve with hard-boiled eggs."
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Champorado",
+    "meal": "breakfast",
+    "protein": "vegetarian",
+    "minutes": 25,
+    "image": 9,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.3 kg glutinous rice",
+      "0.05 kg cocoa powder",
+      "0.1 kg brown sugar",
+      "250 ml evaporated milk"
+    ],
+    "steps": [
+      "Simmer washed glutinous rice in 1.2 liters water until very tender.",
+      "Stir in cocoa dissolved in a little hot water and the sugar.",
+      "Cook until thickened, stirring often.",
+      "Serve with a splash of milk."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tortang Talong Silog",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 25,
+    "image": 6,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "4 pcs eggplant",
+      "4 pcs eggs",
+      "0.3 kg rice",
+      "2 pcs tomatoes",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Grill or broil eggplants until softened, cool and peel.",
+      "Flatten with a fork and dip each in beaten egg.",
+      "Pan-cook on both sides until egg is fully set.",
+      "Serve with garlic rice and sliced tomatoes."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tapsilog",
+    "meal": "breakfast",
+    "protein": "beef",
+    "minutes": 40,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.6 kg beef sirloin",
+      "4 pcs eggs",
+      "0.3 kg rice",
+      "4 cloves garlic",
+      "2 tbsp soy sauce",
+      "2 tbsp calamansi juice",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Slice beef thinly and marinate in soy sauce, calamansi and garlic for 20 minutes.",
+      "Sear beef in a hot pan until fully cooked.",
+      "Fry the eggs and prepare garlic rice.",
+      "Serve together with sliced vegetables if available."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Longsilog",
+    "meal": "breakfast",
+    "protein": "pork",
+    "minutes": 25,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.5 kg longganisa",
+      "4 pcs eggs",
+      "0.3 kg rice",
+      "2 pcs tomatoes"
+    ],
+    "steps": [
+      "Cook longganisa with a splash of water until cooked through.",
+      "Allow liquid to evaporate and lightly brown.",
+      "Prepare eggs and garlic rice.",
+      "Serve with fresh tomatoes."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tocilog",
+    "meal": "breakfast",
+    "protein": "pork",
+    "minutes": 25,
+    "image": 8,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.6 kg pork tocino",
+      "4 pcs eggs",
+      "0.3 kg rice",
+      "1 pc cucumber"
+    ],
+    "steps": [
+      "Cook tocino in a covered pan with a little water until cooked.",
+      "Reduce liquid and lightly caramelize over low heat.",
+      "Serve with eggs, garlic rice and cucumber slices."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bangsilog",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 30,
+    "image": 3,
+    "tags": [
+      "classic",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.8 kg boneless bangus",
+      "4 pcs eggs",
+      "0.3 kg rice",
+      "2 pcs tomatoes",
+      "1 tbsp vinegar",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Season bangus lightly with salt and vinegar.",
+      "Pan-fry in a little oil until flesh is opaque and cooked through.",
+      "Make garlic rice and eggs.",
+      "Serve fish with tomatoes."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Danggit Silog",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 20,
+    "image": 3,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.35 kg dried danggit",
+      "4 pcs eggs",
+      "0.3 kg rice",
+      "2 pcs tomatoes"
+    ],
+    "steps": [
+      "Rinse dried fish briefly if very salty, then pat dry.",
+      "Pan-fry quickly until crisp, avoiding overcooking.",
+      "Make garlic rice and eggs.",
+      "Serve with tomatoes and a vinegar dipping sauce."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Pandesal with Egg and Tomato",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 15,
+    "image": 6,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "12 pcs pandesal",
+      "4 pcs eggs",
+      "2 pcs tomatoes",
+      "1 pc cucumber"
+    ],
+    "steps": [
+      "Scramble eggs until fully cooked.",
+      "Slice pandesal and fill with eggs, tomatoes and cucumber.",
+      "Serve warm with water or unsweetened coffee."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ginisang Sardinas with Rice",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 20,
+    "image": 10,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "2 cans sardines",
+      "0.3 kg rice",
+      "1 pc onion",
+      "2 pcs tomatoes",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic and onion until softened.",
+      "Add chopped tomatoes and simmer for 3 minutes.",
+      "Add sardines and gently heat through.",
+      "Serve over cooked rice."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chicken Lugaw",
+    "meal": "breakfast",
+    "protein": "chicken",
+    "minutes": 35,
+    "image": 9,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.25 kg chicken",
+      "0.3 kg rice",
+      "30 g ginger",
+      "1 pc onion",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Sauté ginger, garlic and onion.",
+      "Add chicken, rice and 1.5 liters water.",
+      "Simmer until chicken cooks and rice breaks down to a soft porridge.",
+      "Season lightly and serve hot."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ginisang Corned Beef with Potatoes",
+    "meal": "breakfast",
+    "protein": "beef",
+    "minutes": 20,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "2 cans corned beef",
+      "0.4 kg potato",
+      "1 pc onion",
+      "0.3 kg rice",
+      "2 pcs tomatoes"
+    ],
+    "steps": [
+      "Sauté onion and diced potato with a splash of water until soft.",
+      "Add corned beef and heat thoroughly, stirring occasionally.",
+      "Serve with rice and tomatoes."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Tortang Sardinas",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 20,
+    "image": 6,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "2 cans sardines",
+      "4 pcs eggs",
+      "1 pc onion",
+      "0.3 kg rice"
+    ],
+    "steps": [
+      "Drain most of the sardine sauce and flake the fish.",
+      "Mix with diced onion and beaten eggs.",
+      "Pan-cook spoonfuls until set on both sides.",
+      "Serve with hot rice."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Egg and Pechay Stir-Fry",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 15,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "5 pcs eggs",
+      "0.35 kg pechay",
+      "2 cloves garlic",
+      "0.3 kg rice"
+    ],
+    "steps": [
+      "Sauté garlic briefly and add chopped pechay.",
+      "Cook just until greens wilt.",
+      "Pour in beaten eggs and stir until set.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ginisang Tofu with Tomatoes",
+    "meal": "breakfast",
+    "protein": "tofu",
+    "minutes": 20,
+    "image": 6,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.6 kg tofu",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "0.3 kg rice"
+    ],
+    "steps": [
+      "Pat dry and lightly brown tofu cubes in a skillet.",
+      "Add onion and tomatoes and cook until soft.",
+      "Season lightly and serve with rice."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Oatmeal with Saba",
+    "meal": "breakfast",
+    "protein": "vegetarian",
+    "minutes": 15,
+    "image": 9,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.35 kg rolled oats",
+      "4 pcs saba banana",
+      "500 ml milk",
+      "0.03 kg peanuts"
+    ],
+    "steps": [
+      "Cook oats in water or milk until creamy.",
+      "Slice and simmer saba until tender.",
+      "Top oats with saba and a sprinkle of crushed peanuts."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Kamote and Boiled Eggs",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 25,
+    "image": 6,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "1 kg sweet potato",
+      "8 pcs eggs",
+      "4 pcs bananas"
+    ],
+    "steps": [
+      "Wash and boil sweet potatoes until fork-tender.",
+      "Boil eggs for 9–11 minutes, then cool and peel.",
+      "Serve with fresh bananas."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Tuna Pandesal Sandwich",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 15,
+    "image": 5,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "12 pcs pandesal",
+      "2 cans tuna",
+      "1 pc cucumber",
+      "2 pcs tomatoes",
+      "2 tbsp mayonnaise"
+    ],
+    "steps": [
+      "Drain tuna and mix with mayonnaise.",
+      "Slice cucumber and tomatoes thinly.",
+      "Fill pandesal with tuna and vegetables",
+      "serve immediately."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pancit Canton Breakfast",
+    "meal": "breakfast",
+    "protein": "vegetarian",
+    "minutes": 30,
+    "image": 5,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.4 kg canton noodles",
+      "0.25 kg cabbage",
+      "0.2 kg carrots",
+      "1 pc onion",
+      "2 cloves garlic",
+      "2 tbsp soy sauce"
+    ],
+    "steps": [
+      "Sauté onion and garlic, then add carrots and cabbage.",
+      "Add 2 cups water and soy sauce and bring to a boil.",
+      "Stir in noodles and cook until tender and liquid is absorbed."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Daing na Bangus with Rice",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 30,
+    "image": 3,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg bangus",
+      "0.3 kg rice",
+      "2 tbsp vinegar",
+      "3 cloves garlic",
+      "1 pc cucumber"
+    ],
+    "steps": [
+      "Marinate butterflied bangus in vinegar, garlic and a pinch of pepper.",
+      "Fry or grill until flesh is opaque and fully cooked.",
+      "Serve with rice and cucumber."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ginisang Repolyo with Egg",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 20,
+    "image": 11,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.6 kg cabbage",
+      "4 pcs eggs",
+      "1 pc onion",
+      "0.3 kg rice"
+    ],
+    "steps": [
+      "Sauté onion until soft and add shredded cabbage.",
+      "Cook with a little water until just tender.",
+      "Stir in beaten eggs until fully cooked.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pandesal with Kesong Puti",
+    "meal": "breakfast",
+    "protein": "dairy",
+    "minutes": 10,
+    "image": 6,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "12 pcs pandesal",
+      "0.25 kg kesong puti",
+      "4 pcs bananas"
+    ],
+    "steps": [
+      "Slice pandesal and fill with kesong puti.",
+      "Warm briefly if desired and serve with bananas."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Sinangag with Scrambled Eggs",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 15,
+    "image": 6,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.4 kg rice",
+      "6 pcs eggs",
+      "6 cloves garlic",
+      "2 pcs tomatoes",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Cook or use chilled leftover rice.",
+      "Lightly brown chopped garlic in a little oil and add rice.",
+      "Scramble eggs until set and serve with tomatoes."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Sopas with Chicken and Vegetables",
+    "meal": "breakfast",
+    "protein": "chicken",
+    "minutes": 35,
+    "image": 9,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.35 kg chicken",
+      "0.25 kg macaroni",
+      "0.3 kg cabbage",
+      "0.2 kg carrots",
+      "300 ml milk",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Simmer chicken in water until cooked, remove and shred.",
+      "Add macaroni, onion and carrots to broth",
+      "cook until nearly tender.",
+      "Stir in cabbage, shredded chicken and milk",
+      "heat through without rapid boiling."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Paksiw na Isda Rice Bowl",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 30,
+    "image": 3,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.7 kg fish",
+      "0.3 kg rice",
+      "100 ml vinegar",
+      "25 g ginger",
+      "3 cloves garlic",
+      "1 pc eggplant"
+    ],
+    "steps": [
+      "Simmer vinegar, ginger and garlic with a splash of water.",
+      "Add fish and sliced eggplant and cook gently until fish is fully cooked.",
+      "Serve over rice."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Ginataang Mais",
+    "meal": "breakfast",
+    "protein": "vegetarian",
+    "minutes": 30,
+    "image": 9,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.3 kg glutinous rice",
+      "0.4 kg sweet corn",
+      "400 ml coconut milk",
+      "0.06 kg sugar"
+    ],
+    "steps": [
+      "Simmer washed glutinous rice in water until nearly soft.",
+      "Add sweet corn and coconut milk.",
+      "Stir gently until grains are tender and creamy, then sweeten lightly."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Malunggay Omelet",
+    "meal": "breakfast",
+    "protein": "egg",
+    "minutes": 15,
+    "image": 6,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "6 pcs eggs",
+      "1 bunch malunggay",
+      "2 pcs tomatoes",
+      "0.3 kg rice"
+    ],
+    "steps": [
+      "Wash and pick malunggay leaves, then mix into beaten eggs.",
+      "Cook gently in a lightly oiled pan until firm.",
+      "Serve with tomatoes and rice."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Binalot-Style Fried Rice and Tofu",
+    "meal": "breakfast",
+    "protein": "tofu",
+    "minutes": 20,
+    "image": 6,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.4 kg tofu",
+      "0.35 kg rice",
+      "3 cloves garlic",
+      "1 pc cucumber",
+      "2 tbsp soy sauce"
+    ],
+    "steps": [
+      "Sear diced tofu until golden.",
+      "Stir-fry cooked rice with garlic.",
+      "Serve tofu with rice, sliced cucumber and a little soy sauce."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Beef Tapa with Kamote",
+    "meal": "breakfast",
+    "protein": "beef",
+    "minutes": 30,
+    "image": 0,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.5 kg beef sirloin",
+      "0.8 kg sweet potato",
+      "2 tbsp calamansi juice",
+      "2 tbsp soy sauce",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Marinate thin beef strips with calamansi, soy and garlic for 15 minutes.",
+      "Pan-sear until cooked through.",
+      "Serve with boiled kamote."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Tortang Dilis",
+    "meal": "breakfast",
+    "protein": "fish",
+    "minutes": 20,
+    "image": 6,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.35 kg fresh dilis",
+      "5 pcs eggs",
+      "1 pc onion",
+      "0.3 kg rice"
+    ],
+    "steps": [
+      "Clean and drain fresh dilis, then chop if needed.",
+      "Combine with eggs and minced onion.",
+      "Cook small patties until both sides are browned and the fish is cooked.",
+      "Serve with rice."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Chicken Adobo",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 55,
+    "image": 0,
+    "tags": [
+      "classic",
+      "budget"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "100 ml soy sauce",
+      "100 ml vinegar",
+      "8 cloves garlic",
+      "3 pcs bay leaves",
+      "1 tsp peppercorns"
+    ],
+    "steps": [
+      "Brown chicken lightly with crushed garlic.",
+      "Add soy sauce, vinegar, bay leaves, peppercorns and 250 ml water.",
+      "Simmer covered 30–40 minutes until chicken is fully cooked.",
+      "Uncover and reduce sauce to taste."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Tinolang Manok",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 55,
+    "image": 2,
+    "tags": [
+      "healthy",
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "0.7 kg sayote",
+      "2 bunches malunggay",
+      "40 g ginger",
+      "1 pc onion",
+      "2 tbsp fish sauce"
+    ],
+    "steps": [
+      "Sauté ginger and onion, then add chicken and cook briefly.",
+      "Add 1.3 liters water and simmer until chicken is cooked.",
+      "Add sayote and cook until tender.",
+      "Stir in malunggay at the end and season lightly."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Chicken Afritada",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 60,
+    "image": 8,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "0.5 kg potato",
+      "0.3 kg carrots",
+      "0.25 kg bell pepper",
+      "250 ml tomato sauce",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and chicken until the surface is no longer pink.",
+      "Add tomato sauce and water, then simmer for 25 minutes.",
+      "Add potatoes and carrots until tender.",
+      "Add bell peppers and simmer until chicken is cooked through."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Chicken Inasal",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 55,
+    "image": 0,
+    "tags": [
+      "classic",
+      "healthy"
+    ],
+    "ingredients": [
+      "1.2 kg chicken",
+      "80 ml calamansi juice",
+      "50 ml vinegar",
+      "30 g ginger",
+      "5 cloves garlic",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Marinate chicken in calamansi, vinegar, garlic and ginger for at least 30 minutes.",
+      "Grill over medium heat, turning occasionally and brushing with oil.",
+      "Continue until the thickest part reaches 74°C and juices run clear.",
+      "Rest and serve."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Chicken Curry Filipino Style",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 55,
+    "image": 4,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "0.4 kg potato",
+      "0.3 kg carrots",
+      "400 ml coconut milk",
+      "2 tbsp curry powder",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and curry powder until fragrant.",
+      "Add chicken and cook briefly, then potatoes, carrots and water.",
+      "Simmer until chicken and vegetables are tender.",
+      "Pour in coconut milk and gently heat through."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Chicken Menudo",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 45,
+    "image": 10,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.9 kg chicken",
+      "0.3 kg potato",
+      "0.2 kg carrots",
+      "250 ml tomato sauce",
+      "1 pc onion",
+      "0.15 kg bell pepper"
+    ],
+    "steps": [
+      "Sauté onion and diced chicken until lightly browned.",
+      "Add tomato sauce and water",
+      "simmer until cooked.",
+      "Stir in potatoes and carrots, then cook until tender.",
+      "Finish with diced bell pepper."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Pininyahang Manok",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 50,
+    "image": 8,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "0.4 kg pineapple chunks",
+      "250 ml evaporated milk",
+      "1 pc onion",
+      "0.2 kg carrots",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic, onion and chicken.",
+      "Add pineapple with a little water and simmer until chicken is cooked.",
+      "Add carrots and cook until tender.",
+      "Stir in evaporated milk and heat gently."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Chicken Sotanghon",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 40,
+    "image": 9,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.65 kg chicken",
+      "0.3 kg sotanghon",
+      "0.4 kg cabbage",
+      "0.25 kg carrots",
+      "1 pc onion",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Simmer chicken until cooked and shred into pieces.",
+      "Sauté garlic and onion",
+      "add broth and carrots.",
+      "Add sotanghon and cabbage and cook until tender.",
+      "Return shredded chicken and serve hot."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Chicken Binakol",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 55,
+    "image": 2,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "600 ml coconut water",
+      "0.3 kg young coconut meat",
+      "40 g ginger",
+      "1 bunch malunggay",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté ginger and onion with chicken.",
+      "Add coconut water and enough water to cover",
+      "simmer until cooked.",
+      "Add coconut meat and simmer 5 minutes.",
+      "Stir in malunggay and season lightly."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pesang Manok",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 50,
+    "image": 2,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "0.5 kg potato",
+      "0.5 kg pechay",
+      "30 g ginger",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Bring chicken, ginger and onion to a simmer in water.",
+      "Skim foam and cook until chicken is tender.",
+      "Add potatoes until cooked.",
+      "Add pechay at the end and serve as a clear soup."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Chicken Pastel",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 60,
+    "image": 8,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg chicken",
+      "0.3 kg carrots",
+      "0.25 kg potato",
+      "0.25 kg mushrooms",
+      "250 ml evaporated milk",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and chicken until lightly browned.",
+      "Add potatoes, carrots and a splash of water, then simmer.",
+      "Add mushrooms and cook until chicken is fully done.",
+      "Stir in milk, season and heat gently until creamy."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Chicken Asado",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 50,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "70 ml soy sauce",
+      "80 ml calamansi juice",
+      "1 pc onion",
+      "5 cloves garlic",
+      "2 pcs bay leaves"
+    ],
+    "steps": [
+      "Marinate chicken briefly with soy and calamansi.",
+      "Sauté onion and garlic, then brown chicken.",
+      "Pour in marinade with water and bay leaves.",
+      "Simmer covered until chicken cooks and sauce thickens."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Sinigang na Baboy",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 75,
+    "image": 1,
+    "tags": [
+      "classic",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.9 kg pork kasim",
+      "0.4 kg labanos",
+      "0.4 kg sitaw",
+      "0.4 kg kangkong",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "1 pack sinigang mix"
+    ],
+    "steps": [
+      "Simmer pork, onion and tomatoes until pork becomes tender.",
+      "Add radish and sitaw and cook until nearly done.",
+      "Add souring mix to taste.",
+      "Stir in kangkong and turn off the heat when wilted."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Pork Menudo",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 60,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.8 kg pork kasim",
+      "0.5 kg potatoes",
+      "0.3 kg carrots",
+      "0.2 kg bell pepper",
+      "250 ml tomato sauce",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and cubed pork until the outside browns.",
+      "Add tomato sauce and enough water, simmer until pork softens.",
+      "Add potatoes and carrots and cook until tender.",
+      "Finish with bell pepper and simmer briefly."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Pork Adobo",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 65,
+    "image": 0,
+    "tags": [
+      "classic",
+      "budget"
+    ],
+    "ingredients": [
+      "0.9 kg pork kasim",
+      "90 ml soy sauce",
+      "100 ml vinegar",
+      "7 cloves garlic",
+      "3 pcs bay leaves",
+      "1 tsp peppercorns"
+    ],
+    "steps": [
+      "Sear pork until lightly colored and some fat renders.",
+      "Add garlic, soy sauce, vinegar, bay leaves and water.",
+      "Simmer until pork is fork-tender, about 45 minutes.",
+      "Reduce sauce and adjust seasoning."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bistek Tagalog",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 45,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.8 kg beef sirloin",
+      "0.4 kg onions",
+      "90 ml soy sauce",
+      "80 ml calamansi juice",
+      "2 tbsp oil"
+    ],
+    "steps": [
+      "Marinate sliced beef in soy and calamansi for 20 minutes.",
+      "Sear beef briefly in a hot pan and set aside.",
+      "Cook onion rings until soft.",
+      "Return beef and marinade with water",
+      "simmer until tender."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Pork Giniling",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 40,
+    "image": 10,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.75 kg ground pork",
+      "0.4 kg potato",
+      "0.25 kg carrots",
+      "0.2 kg peas",
+      "200 ml tomato sauce",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and ground pork until browned and fully cooked.",
+      "Add tomato sauce and a little water.",
+      "Add diced potatoes and carrots and simmer until tender.",
+      "Stir in peas and heat through."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Pork Nilaga",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 75,
+    "image": 1,
+    "tags": [
+      "healthy",
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg pork kasim",
+      "0.5 kg cabbage",
+      "0.4 kg potatoes",
+      "0.3 kg green beans",
+      "1 pc onion",
+      "1 tsp peppercorns"
+    ],
+    "steps": [
+      "Simmer pork with onion and peppercorns until tender.",
+      "Add potatoes and cook until almost soft.",
+      "Add green beans and cabbage and cook briefly.",
+      "Season and serve with broth."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Pork Humba",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 80,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg pork belly",
+      "90 ml soy sauce",
+      "80 ml vinegar",
+      "0.08 kg brown sugar",
+      "5 cloves garlic",
+      "3 pcs bay leaves"
+    ],
+    "steps": [
+      "Brown pork pieces in their own rendered fat.",
+      "Add garlic, soy sauce, vinegar, sugar, bay leaves and water.",
+      "Simmer covered until pork is very tender.",
+      "Reduce sauce to a glossy coating."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Pork Binagoongan",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 55,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.8 kg pork kasim",
+      "0.25 kg eggplant",
+      "2 tbsp shrimp paste",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic, onion and tomato until softened.",
+      "Add pork and cook until browned.",
+      "Stir in shrimp paste and water, then simmer until tender.",
+      "Add sliced eggplant and cook until soft."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Lechon Paksiw",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 35,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.8 kg cooked lechon",
+      "150 ml vinegar",
+      "0.1 kg liver spread",
+      "0.08 kg brown sugar",
+      "5 cloves garlic",
+      "2 pcs bay leaves"
+    ],
+    "steps": [
+      "Combine leftover cooked lechon with vinegar, water and garlic.",
+      "Simmer gently for 15 minutes.",
+      "Stir in liver spread and sugar and cook until sauce thickens.",
+      "Serve hot",
+      "refrigerate leftovers promptly."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Pork Estofado",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 65,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg pork kasim",
+      "3 pcs saba banana",
+      "0.3 kg potatoes",
+      "80 ml soy sauce",
+      "0.06 kg brown sugar",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Brown pork and garlic in a large pan.",
+      "Add soy sauce, sugar and water and simmer until tender.",
+      "Add potatoes and bananas and cook until softened.",
+      "Reduce the liquid to a light glaze."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Paksiw na Pata",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 100,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg pork pata",
+      "140 ml vinegar",
+      "90 ml soy sauce",
+      "0.08 kg brown sugar",
+      "5 cloves garlic",
+      "3 pcs bay leaves"
+    ],
+    "steps": [
+      "Blanch pork pata and discard the first boiling water.",
+      "Return to pot with vinegar, soy, sugar, garlic, bay leaves and water.",
+      "Simmer covered until skin and meat are very tender.",
+      "Reduce sauce gently and serve."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Pork Sinantomas",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 60,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.8 kg pork kasim",
+      "0.3 kg potato",
+      "0.3 kg carrots",
+      "200 ml tomato sauce",
+      "80 ml pineapple juice",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and brown pork cubes.",
+      "Add tomato sauce and pineapple juice with water.",
+      "Simmer until pork is almost tender, then add potatoes and carrots.",
+      "Cook until vegetables soften and sauce thickens."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Sinigang na Bangus",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 40,
+    "image": 1,
+    "tags": [
+      "healthy",
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg bangus",
+      "0.4 kg kangkong",
+      "0.4 kg labanos",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "1 pack sinigang mix"
+    ],
+    "steps": [
+      "Boil onion and tomatoes in 1.2 liters water until soft.",
+      "Add labanos and simmer until nearly tender.",
+      "Add bangus and cook gently until fish is opaque and flakes.",
+      "Stir in souring mix and kangkong, then turn off heat."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Paksiw na Galunggong",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 35,
+    "image": 3,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "1 kg galunggong",
+      "100 ml vinegar",
+      "35 g ginger",
+      "0.3 kg eggplant",
+      "4 cloves garlic",
+      "2 pcs green chilies"
+    ],
+    "steps": [
+      "Layer fish, ginger, garlic and eggplant in a pot.",
+      "Add vinegar and water with a pinch of salt.",
+      "Simmer uncovered briefly, then cover and cook until fish flakes easily.",
+      "Add chilies and serve."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Grilled Tilapia",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 35,
+    "image": 3,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "1.2 kg tilapia",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "4 pcs calamansi",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Clean and score the fish",
+      "stuff with tomatoes and onion.",
+      "Rub lightly with oil and grill over moderate heat.",
+      "Turn once and cook until fish flakes and is opaque.",
+      "Serve with calamansi."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Escabecheng Isda",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 45,
+    "image": 3,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg tilapia",
+      "0.3 kg carrots",
+      "0.2 kg bell pepper",
+      "1 pc onion",
+      "80 ml vinegar",
+      "0.06 kg brown sugar"
+    ],
+    "steps": [
+      "Pan-fry fish until thoroughly cooked and set aside.",
+      "Sauté onion, carrot and bell pepper in a little oil.",
+      "Add vinegar, sugar and water",
+      "simmer until vegetables soften.",
+      "Pour sweet-sour sauce over cooked fish."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Daing na Bangus",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 35,
+    "image": 3,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg bangus",
+      "120 ml vinegar",
+      "5 cloves garlic",
+      "1 tsp peppercorns",
+      "1 pc cucumber"
+    ],
+    "steps": [
+      "Marinate butterflied bangus in vinegar, garlic and pepper.",
+      "Pan-fry or grill until fish is cooked through.",
+      "Serve with sliced cucumber and a vinegar dip."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Ginataang Tilapia",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 45,
+    "image": 4,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg tilapia",
+      "400 ml coconut milk",
+      "0.3 kg pechay",
+      "30 g ginger",
+      "1 pc onion",
+      "2 pcs green chilies"
+    ],
+    "steps": [
+      "Sauté ginger and onion, then add coconut milk and a little water.",
+      "Add tilapia and simmer gently until nearly cooked.",
+      "Add pechay and chilies and simmer until fish flakes.",
+      "Season lightly."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Pesang Isda",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 40,
+    "image": 2,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg bangus",
+      "0.6 kg pechay",
+      "0.35 kg potato",
+      "30 g ginger",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Boil ginger and onion in water until fragrant.",
+      "Add potatoes and simmer until almost tender.",
+      "Add bangus and poach gently until cooked.",
+      "Add pechay to wilt and serve with broth."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Sinigang na Hipon",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 35,
+    "image": 1,
+    "tags": [
+      "healthy",
+      "classic"
+    ],
+    "ingredients": [
+      "0.8 kg shrimp",
+      "0.4 kg sitaw",
+      "0.3 kg kangkong",
+      "0.3 kg labanos",
+      "3 pcs tomatoes",
+      "1 pack sinigang mix"
+    ],
+    "steps": [
+      "Simmer tomatoes and radish in water until nearly tender.",
+      "Add sitaw and souring mix.",
+      "Add shrimp and cook just until pink and opaque.",
+      "Stir in kangkong and serve hot."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Halabos na Hipon",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 20,
+    "image": 3,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg shrimp",
+      "100 ml lemon soda",
+      "4 cloves garlic",
+      "25 g ginger",
+      "4 pcs calamansi"
+    ],
+    "steps": [
+      "Place shrimp, garlic, ginger and lemon soda in a pot.",
+      "Cover and steam for several minutes until shrimp are pink and opaque.",
+      "Toss briefly and serve with calamansi."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Adobong Pusit",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 35,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg squid",
+      "80 ml soy sauce",
+      "80 ml vinegar",
+      "6 cloves garlic",
+      "1 pc onion",
+      "2 pcs bay leaves"
+    ],
+    "steps": [
+      "Clean squid and reserve ink if desired.",
+      "Sauté garlic and onion, then add squid.",
+      "Add soy sauce, vinegar, bay leaves and a little water.",
+      "Cook briefly just until squid is tender",
+      "avoid overcooking."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Ginataang Alimasag",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 45,
+    "image": 4,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1.2 kg crabs",
+      "400 ml coconut milk",
+      "0.3 kg sitaw",
+      "1 bunch malunggay",
+      "30 g ginger",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté ginger and onion, then add crabs and water.",
+      "Cover and simmer until crab shells turn bright orange-red and meat is cooked.",
+      "Add coconut milk and sitaw",
+      "gently cook until tender.",
+      "Add malunggay and season."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Paksiw na Bangus",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 35,
+    "image": 3,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg bangus",
+      "110 ml vinegar",
+      "0.25 kg eggplant",
+      "35 g ginger",
+      "5 cloves garlic",
+      "2 pcs green chilies"
+    ],
+    "steps": [
+      "Arrange ginger and garlic at the bottom of a pot.",
+      "Layer bangus and eggplant",
+      "pour over vinegar and a little water.",
+      "Simmer until fish is cooked and eggplant softens.",
+      "Add chilies and serve."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Sweet and Sour Fish Fillet",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 45,
+    "image": 3,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg fish fillet",
+      "0.3 kg carrots",
+      "0.2 kg bell pepper",
+      "1 pc onion",
+      "80 ml vinegar",
+      "0.06 kg brown sugar"
+    ],
+    "steps": [
+      "Lightly pan-sear fish fillet pieces until cooked",
+      "set aside.",
+      "Sauté onion, carrot and pepper until crisp-tender.",
+      "Add vinegar, sugar and some water to make a sauce.",
+      "Return fish briefly to coat and serve."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Inihaw na Pusit",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 30,
+    "image": 3,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "1 kg squid",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "60 ml calamansi juice",
+      "2 tbsp soy sauce"
+    ],
+    "steps": [
+      "Clean squid and stuff loosely with onion and tomato.",
+      "Marinate in calamansi and soy sauce for 15 minutes.",
+      "Grill over medium-high heat for a few minutes per side until done.",
+      "Slice into rings to serve."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Ginisang Monggo with Malunggay",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 50,
+    "image": 7,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.5 kg mung beans",
+      "2 bunches malunggay",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Boil rinsed mung beans in water until soft.",
+      "Sauté garlic, onion and tomatoes in a separate pan.",
+      "Add cooked beans and some cooking water",
+      "simmer together.",
+      "Add malunggay until wilted and season lightly."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Pinakbet",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 40,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.5 kg squash",
+      "0.35 kg eggplant",
+      "0.3 kg sitaw",
+      "0.25 kg okra",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "1 tbsp shrimp paste"
+    ],
+    "steps": [
+      "Sauté onion and tomato",
+      "stir in shrimp paste.",
+      "Add squash with a splash of water, cover and simmer.",
+      "Add remaining vegetables and cook until tender but not mushy.",
+      "Season to taste."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Ginataang Kalabasa at Sitaw",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.65 kg squash",
+      "0.4 kg sitaw",
+      "400 ml coconut milk",
+      "1 pc onion",
+      "4 cloves garlic",
+      "0.3 kg tofu"
+    ],
+    "steps": [
+      "Sauté onion and garlic and add squash with a splash of water.",
+      "Simmer until squash starts to soften.",
+      "Add sitaw, tofu and coconut milk.",
+      "Cook gently until vegetables are tender."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Chopsuey",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.5 kg cabbage",
+      "0.3 kg carrots",
+      "0.3 kg cauliflower",
+      "0.3 kg green beans",
+      "0.25 kg tofu",
+      "1 pc onion",
+      "2 tbsp oyster sauce"
+    ],
+    "steps": [
+      "Sauté onion and tofu in a little oil.",
+      "Add carrots and firm vegetables with a splash of water.",
+      "Add cabbage and oyster sauce, and stir-fry until crisp-tender.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Ginisang Sayote with Pork",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 30,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.7 kg sayote",
+      "0.35 kg ground pork",
+      "0.2 kg carrots",
+      "1 pc onion",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic, onion and ground pork until pork is fully cooked.",
+      "Add julienned sayote and carrots.",
+      "Splash in water, cover briefly and cook until tender-crisp.",
+      "Season lightly."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tortang Talong",
+    "meal": "main",
+    "protein": "egg",
+    "minutes": 25,
+    "image": 6,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "4 pcs eggplant",
+      "5 pcs eggs",
+      "2 pcs tomatoes",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Grill eggplants until soft and peel carefully.",
+      "Flatten each with a fork and dip into beaten eggs.",
+      "Cook in a lightly oiled pan until the egg is cooked through.",
+      "Serve with tomato wedges."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Ginisang Ampalaya with Egg",
+    "meal": "main",
+    "protein": "egg",
+    "minutes": 25,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.65 kg bitter melon",
+      "5 pcs eggs",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Slice bitter melon thinly and rinse.",
+      "Sauté onion, garlic and tomatoes until softened.",
+      "Add bitter melon and a splash of water",
+      "cook until tender-crisp.",
+      "Pour in beaten eggs and cook until set."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Laing",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 55,
+    "image": 4,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.16 kg dried taro leaves",
+      "500 ml coconut milk",
+      "35 g ginger",
+      "1 pc onion",
+      "4 cloves garlic",
+      "2 pcs green chilies"
+    ],
+    "steps": [
+      "Sauté ginger, onion and garlic with coconut milk.",
+      "Add dried taro leaves and simmer gently, initially without stirring.",
+      "Continue cooking thoroughly until leaves are soft and no longer irritating.",
+      "Add chilies and season to taste."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Gising Gising",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.7 kg winged beans",
+      "400 ml coconut milk",
+      "0.3 kg tofu",
+      "1 pc onion",
+      "4 cloves garlic",
+      "2 pcs green chilies"
+    ],
+    "steps": [
+      "Sauté garlic and onion with cubed tofu.",
+      "Add finely sliced winged beans and a little water.",
+      "Pour in coconut milk and simmer until beans soften.",
+      "Add green chilies and serve."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Adobong Sitaw",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 30,
+    "image": 11,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.8 kg sitaw",
+      "0.3 kg tofu",
+      "60 ml soy sauce",
+      "60 ml vinegar",
+      "5 cloves garlic",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté garlic and onion, then lightly brown tofu.",
+      "Add cut sitaw and stir-fry briefly.",
+      "Add soy sauce, vinegar and a splash of water",
+      "cook until crisp-tender.",
+      "Reduce sauce slightly."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Ginisang Upo with Shrimp",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.9 kg bottle gourd",
+      "0.25 kg shrimp",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic, onion and tomatoes until softened.",
+      "Add shrimp and cook until pink.",
+      "Add sliced bottle gourd and a splash of water.",
+      "Simmer until tender, then season lightly."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Ensaladang Talong and Tokwa",
+    "meal": "main",
+    "protein": "tofu",
+    "minutes": 30,
+    "image": 6,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "4 pcs eggplant",
+      "0.6 kg tofu",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "60 ml vinegar"
+    ],
+    "steps": [
+      "Grill eggplants and peel, then slice into strips.",
+      "Brown tofu cubes in a nonstick pan.",
+      "Toss eggplant, tofu, chopped tomato and onion.",
+      "Dress lightly with vinegar and serve."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Kangkong with Garlic and Tofu",
+    "meal": "main",
+    "protein": "tofu",
+    "minutes": 20,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.7 kg kangkong",
+      "0.5 kg tofu",
+      "5 cloves garlic",
+      "2 tbsp oyster sauce"
+    ],
+    "steps": [
+      "Sear tofu cubes until golden and set aside.",
+      "Sauté garlic, then add kangkong stems and a splash of water.",
+      "Add leaves, tofu and oyster sauce.",
+      "Toss just until leaves wilt."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Lumpiang Sariwa",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 60,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "classic"
+    ],
+    "ingredients": [
+      "0.4 kg cabbage",
+      "0.3 kg carrots",
+      "0.3 kg green beans",
+      "0.25 kg tofu",
+      "8 pcs spring roll wrappers",
+      "1 pc lettuce",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic and stir-fry tofu with vegetables until tender.",
+      "Cool the filling and arrange with lettuce in soft wrappers.",
+      "Roll tightly without frying.",
+      "Serve with a light garlic-based sauce."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Dinengdeng",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.35 kg squash",
+      "0.35 kg okra",
+      "0.3 kg sitaw",
+      "0.35 kg eggplant",
+      "2 pcs tomatoes",
+      "2 tbsp fish sauce"
+    ],
+    "steps": [
+      "Boil water with tomatoes and fish sauce.",
+      "Add squash and cook until nearly tender.",
+      "Add remaining vegetables and simmer until just cooked.",
+      "Serve broth and vegetables together."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Beef Nilaga",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 95,
+    "image": 1,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg beef shank",
+      "0.6 kg potato",
+      "0.5 kg cabbage",
+      "0.3 kg green beans",
+      "1 pc onion",
+      "1 tsp peppercorns"
+    ],
+    "steps": [
+      "Simmer beef with onion and peppercorns until meat is fork-tender.",
+      "Add potatoes and cook until nearly soft.",
+      "Add beans and cabbage and cook briefly.",
+      "Season broth and serve."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Beef Mechado",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 95,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg beef chuck",
+      "0.5 kg potato",
+      "0.25 kg carrots",
+      "250 ml tomato sauce",
+      "1 pc onion",
+      "2 pcs bay leaves"
+    ],
+    "steps": [
+      "Brown beef with onion, then add tomato sauce, bay leaves and water.",
+      "Simmer covered until beef is tender.",
+      "Add potatoes and carrots and cook until done.",
+      "Reduce sauce slightly before serving."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Kare-Kare",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 110,
+    "image": 4,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg beef shank",
+      "0.4 kg eggplant",
+      "0.35 kg sitaw",
+      "0.35 kg pechay",
+      "0.2 kg peanut butter",
+      "1 tbsp annatto powder",
+      "2 tbsp shrimp paste"
+    ],
+    "steps": [
+      "Simmer beef until tender, reserving broth.",
+      "Stir peanut butter and annatto into broth to create a creamy sauce.",
+      "Add vegetables and cook until tender.",
+      "Add beef back and serve shrimp paste on the side."
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Beef Caldereta",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 105,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.9 kg beef chuck",
+      "0.5 kg potato",
+      "0.3 kg carrots",
+      "0.2 kg bell pepper",
+      "300 ml tomato sauce",
+      "0.1 kg liver spread"
+    ],
+    "steps": [
+      "Brown beef and simmer in tomato sauce and water until tender.",
+      "Add carrots and potatoes and continue simmering.",
+      "Stir in liver spread and bell pepper.",
+      "Cook until vegetables are tender and sauce coats meat."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Beef with Broccoli",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.7 kg beef sirloin",
+      "0.7 kg broccoli",
+      "1 pc onion",
+      "4 cloves garlic",
+      "3 tbsp oyster sauce"
+    ],
+    "steps": [
+      "Sear sliced beef in a hot skillet until browned.",
+      "Sauté garlic and onion, add broccoli with a little water.",
+      "Return beef and oyster sauce and cook until beef is done.",
+      "Keep broccoli crisp-tender."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Pancit Bihon Guisado",
+    "meal": "main",
+    "protein": "mixed",
+    "minutes": 45,
+    "image": 5,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.4 kg bihon noodles",
+      "0.35 kg chicken",
+      "0.3 kg cabbage",
+      "0.2 kg carrots",
+      "0.25 kg green beans",
+      "1 pc onion",
+      "3 tbsp soy sauce"
+    ],
+    "steps": [
+      "Cook chicken fully and shred.",
+      "Sauté onion and vegetables, then pour in broth and soy sauce.",
+      "Soften bihon in the broth, tossing until fully cooked.",
+      "Mix shredded chicken in before serving."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Pancit Canton Guisado",
+    "meal": "main",
+    "protein": "mixed",
+    "minutes": 45,
+    "image": 5,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.4 kg canton noodles",
+      "0.35 kg pork kasim",
+      "0.3 kg cabbage",
+      "0.25 kg carrots",
+      "0.25 kg green beans",
+      "1 pc onion",
+      "3 tbsp soy sauce"
+    ],
+    "steps": [
+      "Cook pork strips thoroughly in a skillet.",
+      "Sauté onion and vegetables until partly tender.",
+      "Add water and soy sauce, then canton noodles.",
+      "Toss until noodles soften and liquid is absorbed."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Pancit Palabok",
+    "meal": "main",
+    "protein": "seafood",
+    "minutes": 65,
+    "image": 5,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.5 kg rice noodles",
+      "0.35 kg shrimp",
+      "4 pcs eggs",
+      "0.15 kg smoked fish flakes",
+      "2 tbsp annatto powder",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Cook rice noodles according to package and drain.",
+      "Make a sauce using annatto, shrimp cooking liquid and garlic",
+      "simmer until thick.",
+      "Cook shrimp thoroughly and boil eggs.",
+      "Assemble noodles with sauce, shrimp, flaked fish and eggs."
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Lumpiang Shanghai",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 50,
+    "image": 6,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.7 kg ground pork",
+      "0.2 kg carrots",
+      "1 pc onion",
+      "2 pcs eggs",
+      "25 pcs spring roll wrappers",
+      "100 ml oil"
+    ],
+    "steps": [
+      "Mix pork with finely minced carrot, onion and eggs.",
+      "Roll small amounts tightly in spring roll wrappers.",
+      "Shallow-fry in batches until golden and pork filling is cooked through.",
+      "Drain well and serve."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Arroz a la Cubana",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 40,
+    "image": 10,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.6 kg ground beef",
+      "4 pcs eggs",
+      "4 pcs saba banana",
+      "0.3 kg carrots",
+      "0.3 kg potatoes",
+      "1 pc onion"
+    ],
+    "steps": [
+      "Sauté onion and beef until browned and cooked.",
+      "Add finely diced carrot and potato until tender.",
+      "Pan-fry saba slices and eggs separately.",
+      "Serve ground beef mixture with egg and saba."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Pork Sisig (Home Style)",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 60,
+    "image": 0,
+    "tags": [
+      "classic"
+    ],
+    "ingredients": [
+      "0.85 kg pork kasim",
+      "2 pcs onions",
+      "4 pcs calamansi",
+      "2 pcs green chilies",
+      "1 tbsp soy sauce",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Simmer pork until cooked, then drain and chop small.",
+      "Brown chopped pork in a skillet until crisp around edges.",
+      "Add onion, chili, soy sauce and calamansi.",
+      "Toss well and serve hot."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Sinampalukang Manok",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 55,
+    "image": 2,
+    "tags": [
+      "healthy",
+      "classic"
+    ],
+    "ingredients": [
+      "1 kg chicken",
+      "0.4 kg kangkong",
+      "0.3 kg tomatoes",
+      "40 g ginger",
+      "1 pc onion",
+      "1 pack sinigang mix"
+    ],
+    "steps": [
+      "Sauté ginger, onion and chicken until surfaces turn opaque.",
+      "Add water and simmer until chicken is fully cooked.",
+      "Add tomatoes and souring mix to taste.",
+      "Finish with kangkong and simmer briefly."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Chicken and Vegetable Chop Suey",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 40,
+    "image": 11,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.6 kg chicken",
+      "0.4 kg cabbage",
+      "0.3 kg carrots",
+      "0.3 kg broccoli",
+      "1 pc onion",
+      "2 tbsp oyster sauce"
+    ],
+    "steps": [
+      "Sauté chicken until browned and fully cooked.",
+      "Add onion, carrots and broccoli with water, stir-fry briefly.",
+      "Add cabbage and oyster sauce and cook until vegetables are crisp-tender.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Ginataang Langka",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 50,
+    "image": 4,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.8 kg young jackfruit",
+      "400 ml coconut milk",
+      "0.25 kg sitaw",
+      "35 g ginger",
+      "1 pc onion",
+      "2 pcs green chilies"
+    ],
+    "steps": [
+      "Sauté ginger and onion and add drained young jackfruit.",
+      "Add water and simmer until jackfruit is tender.",
+      "Pour in coconut milk and sitaw, simmer gently until cooked.",
+      "Finish with green chilies."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Adobong Kangkong",
+    "meal": "main",
+    "protein": "vegetarian",
+    "minutes": 20,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.8 kg kangkong",
+      "5 cloves garlic",
+      "60 ml soy sauce",
+      "60 ml vinegar",
+      "0.3 kg tofu"
+    ],
+    "steps": [
+      "Pan-sear tofu cubes and set aside.",
+      "Sauté garlic and kangkong stems.",
+      "Add leaves, soy sauce and vinegar and simmer briefly.",
+      "Return tofu and toss to coat."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Misua with Patola and Meatballs",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 40,
+    "image": 9,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.5 kg ground pork",
+      "0.6 kg patola",
+      "0.15 kg misua noodles",
+      "1 pc onion",
+      "4 cloves garlic",
+      "1 pc egg"
+    ],
+    "steps": [
+      "Mix pork with egg, a little onion and seasoning",
+      "form small meatballs.",
+      "Sauté garlic and onion, add water and simmer meatballs until cooked.",
+      "Add sliced patola, then misua noodles.",
+      "Cook until noodles and vegetables soften."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Sardines with Misua",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 25,
+    "image": 9,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "2 cans sardines",
+      "0.15 kg misua noodles",
+      "0.3 kg pechay",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "3 cloves garlic"
+    ],
+    "steps": [
+      "Sauté garlic, onion and tomato until soft.",
+      "Add sardines and water and bring to a simmer.",
+      "Add misua and cook until almost soft.",
+      "Stir in pechay and cook until wilted."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Pork and String Beans Stir-Fry",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 30,
+    "image": 11,
+    "tags": [
+      "healthy",
+      "budget"
+    ],
+    "ingredients": [
+      "0.5 kg pork kasim",
+      "0.6 kg green beans",
+      "0.2 kg carrots",
+      "1 pc onion",
+      "3 cloves garlic",
+      "2 tbsp soy sauce"
+    ],
+    "steps": [
+      "Slice pork thinly and cook thoroughly in a hot skillet.",
+      "Add garlic, onion, carrots and beans.",
+      "Splash in water and soy sauce, cook until beans are tender-crisp.",
+      "Serve hot."
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Beef Tapa with Vegetables",
+    "meal": "main",
+    "protein": "beef",
+    "minutes": 35,
+    "image": 0,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.75 kg beef sirloin",
+      "0.4 kg pechay",
+      "0.3 kg carrots",
+      "60 ml calamansi juice",
+      "60 ml soy sauce",
+      "5 cloves garlic"
+    ],
+    "steps": [
+      "Marinate thin beef with calamansi, soy and garlic for 15 minutes.",
+      "Sear beef until well cooked and tender.",
+      "Sauté pechay and carrots in a separate pan.",
+      "Serve together."
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Tortang Giniling",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 35,
+    "image": 6,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.5 kg ground pork",
+      "6 pcs eggs",
+      "0.25 kg carrots",
+      "1 pc onion",
+      "2 pcs tomatoes"
+    ],
+    "steps": [
+      "Brown ground pork with onion until cooked.",
+      "Add finely chopped carrot and soften, then cool slightly.",
+      "Mix into beaten eggs and cook in small patties until firm.",
+      "Serve with tomato slices."
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Ginisang Monggo with Tinapa",
+    "meal": "main",
+    "protein": "fish",
+    "minutes": 50,
+    "image": 7,
+    "tags": [
+      "budget",
+      "healthy"
+    ],
+    "ingredients": [
+      "0.45 kg mung beans",
+      "0.25 kg smoked fish",
+      "1 bunch malunggay",
+      "2 pcs tomatoes",
+      "1 pc onion",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Boil mung beans until soft.",
+      "Sauté garlic, onion and tomato and add flaked smoked fish.",
+      "Add cooked beans with water and simmer.",
+      "Stir in malunggay at the end."
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Pork and Eggplant Guisado",
+    "meal": "main",
+    "protein": "pork",
+    "minutes": 35,
+    "image": 11,
+    "tags": [
+      "budget"
+    ],
+    "ingredients": [
+      "0.55 kg ground pork",
+      "0.6 kg eggplant",
+      "3 pcs tomatoes",
+      "1 pc onion",
+      "4 cloves garlic"
+    ],
+    "steps": [
+      "Brown ground pork with garlic and onion.",
+      "Add chopped tomatoes and cook until saucy.",
+      "Stir in eggplant and a splash of water.",
+      "Cover and simmer until eggplant and pork are fully cooked."
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Chicken and Corn Soup",
+    "meal": "main",
+    "protein": "chicken",
+    "minutes": 40,
+    "image": 9,
+    "tags": [
+      "healthy"
+    ],
+    "ingredients": [
+      "0.65 kg chicken",
+      "0.5 kg sweet corn",
+      "0.3 kg carrots",
+      "0.3 kg pechay",
+      "1 pc onion",
+      "30 g ginger"
+    ],
+    "steps": [
+      "Simmer chicken with onion and ginger until cooked, then shred.",
+      "Add corn and carrots to broth until tender.",
+      "Return chicken and add pechay.",
+      "Cook briefly and season lightly."
+    ]
+  }
+]
